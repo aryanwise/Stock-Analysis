@@ -1,2 +1,2 @@
 # Stock-Analysis
-Stock Analysis - Data Integration - Aryan Mishra - GH1027140
+Stock Analysis - Big Data Processing [Data Integration] - Aryan Mishra - GH1027140

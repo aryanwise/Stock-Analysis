@@ -1,0 +1,107 @@
+STOCKS
+
+JNJ: Johnson & Johnson
+TSM: Taiwan Semiconductor Manufacturing Company
+WMT: Walmart
+ORCL: Oracle
+AAPL: Apple
+NKE: Nike
+V: Visa
+BABA: Alibaba
+JPM: JPMorgan Chase
+UNH: UnitedHealth Group
+MA: Mastercard
+TSLA: Tesla
+NVDA: NVIDIA
+NFLX: Netflix
+CMCSA: Comcast
+MSFT: Microsoft
+AMZN: Amazon
+TM: Toyota Motor
+GOOGL: Alphabet
+XOM: Exxon Mobil
+ASML: ASML Holding
+DIS: Disney
+BAC: Bank of America
+ADBE: Adobe
+KO: Coca-Cola
+META: Meta Platforms
+
+
+Stocks by Industry
+1. Health Care Sector
+Pharmaceuticals, Biotechnology & Life Sciences
+Johnson & Johnson (JNJ): Pharmaceuticals
+UnitedHealth Group (UNH): Managed Health Care
+
+2. Information Technology Sector
+Software
+Microsoft (MSFT): Systems Software
+Oracle (ORCL): Systems Software
+Adobe (ADBE): Application Software
+Semiconductors & Semiconductor Equipment
+Taiwan Semiconductor Manufacturing Company (TSM): Semiconductors
+NVIDIA (NVDA): Semiconductors
+ASML Holding (ASML): Semiconductor Equipment
+Technology Hardware, Storage & Peripherals
+Apple (AAPL): Technology Hardware & Equipment
+
+3. Consumer Discretionary Sector
+Automobiles
+Toyota Motor (TM): Automobile Manufacturers
+Tesla (TSLA): Automobile Manufacturers
+Consumer Durables & Apparel
+Nike (NKE): Footwear
+Internet & Direct Marketing Retail
+Amazon (AMZN): Internet & Direct Marketing Retail
+Alibaba (BABA): Internet & Direct Marketing Retail
+Media & Entertainment
+Disney (DIS): Movies & Entertainment
+Netflix (NFLX): Movies & Entertainment
+
+4. Financials Sector
+Financial Services
+Visa (V): Transaction & Payment Processing Services
+Mastercard (MA): Transaction & Payment Processing Services
+JPMorgan Chase (JPM): Diversified Banks
+Bank of America (BAC): Diversified Banks
+
+5. Consumer Staples Sector
+Food, Beverage & Tobacco
+Coca-Cola (KO): Soft Drinks
+Consumer Staples Distribution & Retail
+Walmart (WMT): Consumer Staples Distribution & Retail
+
+6. Communication Services Sector
+Interactive Media & Services
+Alphabet (GOOGL): Interactive Media & Services
+Meta Platforms (META): Interactive Media & Services
+Telecommunication Services
+Comcast (CMCSA): Cable & Satellite
+
+7. Energy Sector
+Oil, Gas & Consumable Fuels
+Exxon Mobil (XOM): Integrated Oil & Gas
+
+
+1. Closing Price:
+Analysis:
+Closing prices represent the final traded price of a stock at the end of the trading day and are a key indicator of a stock's performance. 
+Comparison:
+Compare the closing prices of stocks within the same sector to identify potential leaders and laggards. For instance, comparing technology stocks like Apple, Microsoft, and Google, or comparing energy stocks like ExxonMobil and Chevron can reveal which companies are outperforming their peers. 
+Example:
+If comparing healthcare stocks, a stock like UnitedHealth Group with a high closing price might indicate strong performance within the sector, while a stock like CVS with a lower closing price might indicate areas for improvement. 
+2. Trading Volume:
+Analysis:
+Volume represents the number of shares traded during a specific period. High volume often signifies strong investor interest and can precede price movements. 
+Comparison:
+Analyze trading volume across sectors to identify which industries are experiencing high levels of activity. For example, comparing the volume of technology stocks to that of consumer goods stocks might indicate which sectors are currently attracting more investor attention. 
+Example:
+If a technology stock experiences a significant price increase with high trading volume, it suggests strong momentum and investor confidence. 
+3. Open, High, and Low Prices:
+Analysis:
+These prices provide a more detailed picture of a stock's daily price fluctuations. The opening price indicates the price at which trading began, the high price represents the highest price reached during the day, and the low price represents the lowest price. 
+Comparison:
+Compare the open, high, and low prices across sectors to identify stocks that exhibit significant intraday volatility or those that maintain a relatively stable price range. 
+Example:
+A stock with a high daily trading range (large difference between high and low) might be more volatile, potentially attracting day traders or risk-seeking investors. 
